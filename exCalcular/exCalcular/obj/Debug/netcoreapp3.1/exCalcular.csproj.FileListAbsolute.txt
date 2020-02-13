@@ -1,0 +1,22 @@
+C:\Users\etec\Desktop\exCalcular\exCalcular\bin\Debug\netcoreapp3.1\exCalcular.exe
+C:\Users\etec\Desktop\exCalcular\exCalcular\bin\Debug\netcoreapp3.1\exCalcular.deps.json
+C:\Users\etec\Desktop\exCalcular\exCalcular\bin\Debug\netcoreapp3.1\exCalcular.runtimeconfig.json
+C:\Users\etec\Desktop\exCalcular\exCalcular\bin\Debug\netcoreapp3.1\exCalcular.runtimeconfig.dev.json
+C:\Users\etec\Desktop\exCalcular\exCalcular\bin\Debug\netcoreapp3.1\exCalcular.dll
+C:\Users\etec\Desktop\exCalcular\exCalcular\bin\Debug\netcoreapp3.1\exCalcular.pdb
+C:\Users\etec\Desktop\exCalcular\exCalcular\obj\Debug\netcoreapp3.1\exCalcular.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\exCalcular\exCalcular\obj\Debug\netcoreapp3.1\exCalcular.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\exCalcular\exCalcular\obj\Debug\netcoreapp3.1\exCalcular.AssemblyInfo.cs
+C:\Users\etec\Desktop\exCalcular\exCalcular\obj\Debug\netcoreapp3.1\exCalcular.dll
+C:\Users\etec\Desktop\exCalcular\exCalcular\obj\Debug\netcoreapp3.1\exCalcular.pdb
+E:\ETEC3\Qualidade e teste de software\exCalcular\exCalcular\bin\Debug\netcoreapp3.1\exCalcular.exe
+E:\ETEC3\Qualidade e teste de software\exCalcular\exCalcular\bin\Debug\netcoreapp3.1\exCalcular.deps.json
+E:\ETEC3\Qualidade e teste de software\exCalcular\exCalcular\bin\Debug\netcoreapp3.1\exCalcular.runtimeconfig.json
+E:\ETEC3\Qualidade e teste de software\exCalcular\exCalcular\bin\Debug\netcoreapp3.1\exCalcular.runtimeconfig.dev.json
+E:\ETEC3\Qualidade e teste de software\exCalcular\exCalcular\bin\Debug\netcoreapp3.1\exCalcular.dll
+E:\ETEC3\Qualidade e teste de software\exCalcular\exCalcular\bin\Debug\netcoreapp3.1\exCalcular.pdb
+E:\ETEC3\Qualidade e teste de software\exCalcular\exCalcular\obj\Debug\netcoreapp3.1\exCalcular.csprojAssemblyReference.cache
+E:\ETEC3\Qualidade e teste de software\exCalcular\exCalcular\obj\Debug\netcoreapp3.1\exCalcular.AssemblyInfoInputs.cache
+E:\ETEC3\Qualidade e teste de software\exCalcular\exCalcular\obj\Debug\netcoreapp3.1\exCalcular.AssemblyInfo.cs
+E:\ETEC3\Qualidade e teste de software\exCalcular\exCalcular\obj\Debug\netcoreapp3.1\exCalcular.dll
+E:\ETEC3\Qualidade e teste de software\exCalcular\exCalcular\obj\Debug\netcoreapp3.1\exCalcular.pdb
